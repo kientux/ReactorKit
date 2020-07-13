@@ -4,7 +4,6 @@ docs/
 /.build
 /Packages
 **/xcuserdata
-**/xcshareddata
 Pods/
 Carthage/
 Examples/Examples.xcworkspace
