@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "RxSwift::RxSwift"
-               BuildableName = "RxSwift.framework"
-               BlueprintName = "RxSwift"
+               BlueprintIdentifier = "ReactorKit::ReactorKitRuntime"
+               BuildableName = "ReactorKitRuntime.framework"
+               BlueprintName = "ReactorKitRuntime"
                ReferencedContainer = "container:ReactorKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -31,20 +31,6 @@
                BlueprintIdentifier = "WeakMapTable::WeakMapTable"
                BuildableName = "WeakMapTable.framework"
                BlueprintName = "WeakMapTable"
-               ReferencedContainer = "container:ReactorKit.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "ReactorKit::ReactorKitRuntime"
-               BuildableName = "ReactorKitRuntime.framework"
-               BlueprintName = "ReactorKitRuntime"
                ReferencedContainer = "container:ReactorKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
